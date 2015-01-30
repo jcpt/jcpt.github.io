@@ -4,7 +4,12 @@ title: About Me
 header: About Me
 group: navigation
 ---
- * **Name:** Yitao Yao
- * **Email:** [simpleyyt@gmail.com](mailto:simpleyyt@gmail.com)
- * **WeiBo:** [摇一摇SimpleLife](http://www.weibo.com/u/1836017133)
- * **Github:** [Simpleyyt](https://github.com/Simpleyyt)
+
+数之联基础平台研发部技术分享博客。
+
+成员：
+
+- 袁野
+- 雷思昊
+- 万军鹏
+- 邓柏成
