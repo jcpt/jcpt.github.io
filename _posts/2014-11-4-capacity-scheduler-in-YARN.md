@@ -8,7 +8,6 @@ tags: [yarn,scheduler]
 
 简要介绍Capacity Scheduler结构以及配置。
 
-<!--more-->
 
 ## 简介
 
