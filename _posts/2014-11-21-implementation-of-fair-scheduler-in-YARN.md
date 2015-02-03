@@ -6,6 +6,8 @@ tagline: by 袁野
 tags: [yarn,scheduler]
 ---
 
+<!--more-->
+
 ##FairScheduler主要类类图
 
 ![Main Classes in FS](/images/fs/classes.jpg "Main Classes in FS")

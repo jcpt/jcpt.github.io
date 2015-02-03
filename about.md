@@ -1,7 +1,7 @@
 ---
 layout: about
-title: About Me
-header: About Me
+title: About us
+header: About us
 group: navigation
 ---
 

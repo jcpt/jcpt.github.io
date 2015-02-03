@@ -8,6 +8,8 @@ tags: [yarn,scheduler]
 
 简要介绍Capacity Scheduler结构以及配置。
 
+<!--more-->
+
 ## 简介
 
 随着Hadoop愈加流行，公司内部的Hadoop集群规模也不断增加，使得Hadoop资源成为一个共享资源。CS(Capacity Scheduler)既要使得hadoop资源能够以一种友好的方式为多用户共享，又能最大化集群的资源使用和吞吐量。
