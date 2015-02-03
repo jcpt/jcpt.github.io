@@ -25,12 +25,11 @@ group: home
 			</div>
 			<div class="journal-body">
 				<h1 class="journal-title"><a href="{{ post.url }}">{{ post.title }}</a><span class="author">{{ post.tagline }}</span></h1>
-				{% case site.excerpt %}
-				{% when "truncate_words" %}
+			<!--	{% case site.excerpt %}
+				{% when "truncate_words" %} 
+			-->
 				<span class="teaser"><p>{{ post.content | strip_html | truncate:150 }}</p>
-				{% when "teaser" %}
-				<span class="teaser">{{ post.content  | split:'<!--more-->' | first }}
-				{% endcase %}
+			
 				</span>
 				<span class="readmore"><a href="{{ post.url }}">Read More</a></span>
 			</div>
